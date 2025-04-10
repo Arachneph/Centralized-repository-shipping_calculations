@@ -11,4 +11,3 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 echo # Here is a new update by Arachnpeh
-# Here is another update by Arachneph
